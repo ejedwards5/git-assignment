@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    min-height: 700px;
+    width: 970px;
+    background-color: rgb(52, 52, 122);
+    display: block;
+}
+
+#header{
+    min-height: 70px;
+    width: 800px;
+    background-color: rgb(233, 60, 60);
+    display: inline-block;
+    margin: 20 px;
+    border-radius: 15px;
+}
+
+#navigation{
+    background-color: rgb(46, 106, 134);
+    width: 200px;
+    vertical-align: top;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+#main_content{
+    background-color: black;
+    width: 650px;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+#footer{
+    background-color: grey;
+    min-height: 50px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+ul {
+    margin-left: 20px;
+}
